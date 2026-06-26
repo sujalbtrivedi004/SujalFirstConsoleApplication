@@ -6,8 +6,6 @@ using System.Threading.Tasks;
 
 namespace SujalFirstConsoleApplication
 {
-    
-
     internal class Program
     {
         static void Main(string[] args)
@@ -17,7 +15,6 @@ namespace SujalFirstConsoleApplication
             bool isActive = true;
             string name = "Alice";
             char grade = 'A';
-
             // Type inference
             var city = "New York";
             var score = 98;
